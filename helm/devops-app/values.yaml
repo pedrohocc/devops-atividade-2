@@ -1,0 +1,8 @@
+image:
+  repository: pcoriolano/devops-atividade-2
+  tag: latest
+
+service:
+  type: NodePort
+  port: 80
+  targetPort: 8000

@@ -1,0 +1,4 @@
+apiVersion: v2
+name: devops-app
+description: Chart simples para atividade de DevOps
+version: 0.1.0
